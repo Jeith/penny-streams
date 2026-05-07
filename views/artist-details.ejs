@@ -140,24 +140,6 @@
 				</section>
 			<% } %>
 
-			<% if (data.merch !== undefined && data.merch !== null){ %>
-				<section class="support-artist-section">
-					<h2>Support Your Favorite Artists</h2>
-					<p>Most artists don't receive 100% of their earnings from their label and groups have to split the earning between eachother. Consider buying their merch!</p>
-
-					<div class="merch-container">
-						<% for (let i = 0; i < data.merch.items.length; i++){ %>
-							<a href="<%= data.merch.items[i].link %>" target="_blank" rel="noopener" class="merch-item">
-								<div class="merch-img" style="background: url(<%= data.merch.items[i].image_uri %>) 50% 50% no-repeat;"></div>
-								<div class="name-price-container">
-									<p><%= data.merch.items[i].name %></p>
-									<span><%= data.merch.items[i].price %></span>
-								</div>
-							</a>
-						<% } %>
-					</div>
-				</section>
-			<% } %>
 			<div class="designed-by-block">
 				<p>designed & developed by <a href="https://portfolio.jeith.com/" target="_blank">Jeith</a></p>
 			</div>

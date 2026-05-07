@@ -1,0 +1,615 @@
+{
+  "artists": [
+    {
+      "id": "khruangbin",
+      "name": "Khruangbin"
+    },
+    {
+      "id": "janelle-monae",
+      "name": "Janelle Monáe"
+    },
+    {
+      "id": "tame-impala",
+      "name": "Tame Impala"
+    },
+    {
+      "id": "mild-high-club",
+      "name": "Mild High Club"
+    },
+    {
+      "id": "iga-maya-lee",
+      "name": "IGA Maya Lee"
+    }
+  ],
+  "artistDetails": {
+    "khruangbin": {
+      "info": {
+        "name": "Khruangbin",
+        "uri": "spotify:artist:khruangbin"
+      },
+      "gallery": {
+        "images": [
+          {
+            "uri": "https://via.placeholder.com/800x800?text=Khruangbin+1"
+          },
+          {
+            "uri": "https://via.placeholder.com/800x800?text=Khruangbin+2"
+          }
+        ]
+      },
+      "related_artists": {
+        "artists": [
+          {
+            "uri": "spotify:artist:allah-las",
+            "name": "Allah-Las",
+            "portraits": [
+              {
+                "uri": "https://via.placeholder.com/400x400?text=Allah-Las"
+              }
+            ]
+          },
+          {
+            "uri": "spotify:artist:shuggie-otis",
+            "name": "Shuggie Otis",
+            "portraits": [
+              {
+                "uri": "https://via.placeholder.com/400x400?text=Shuggie+Otis"
+              }
+            ]
+          },
+          {
+            "uri": "spotify:artist:menahan-street-band",
+            "name": "Menahan Street Band",
+            "portraits": [
+              {
+                "uri": "https://via.placeholder.com/400x400?text=Menahan+Street+Band"
+              }
+            ]
+          },
+          {
+            "uri": "spotify:artist:koko-k-bongo",
+            "name": "KOKOROKO",
+            "portraits": [
+              {
+                "uri": "https://via.placeholder.com/400x400?text=KOKOROKO"
+              }
+            ]
+          },
+          {
+            "uri": "spotify:artist:durand-jones-and-the-indications",
+            "name": "Durand Jones & The Indications",
+            "portraits": [
+              {
+                "uri": "https://via.placeholder.com/400x400?text=Durand+Jones"
+              }
+            ]
+          }
+        ]
+      },
+      "releases": {
+        "albums": {
+          "releases": [
+            {
+              "name": "The Universe Smiles Upon You",
+              "year": "2015",
+              "cover": {
+                "uri": "https://via.placeholder.com/220x220?text=The+Universe+Smiles+Upon+You"
+              },
+              "totalSongs": 10,
+              "totalStreams": "601,769,551",
+              "totalMinEarnings": "1,805,308",
+              "totalMaxEarnings": "3,610,617",
+              "abbrTotalStreams": "601.8M",
+              "abbrMinEarnings": "1.8M",
+              "abbrMaxEarnings": "3.6M",
+              "discs": [
+                {
+                  "tracks": [
+                    {
+                      "name": "Mr. White",
+                      "playcount": 47207324,
+                      "abbrPlaycount": "47.2M",
+                      "minSongEarnings": "141,621",
+                      "maxSongEarnings": "283,243",
+                      "abbrMinEarnings": "141.6k",
+                      "abbrMaxEarnings": "283.2k"
+                    },
+                    {
+                      "name": "Two Fish and an Elephant",
+                      "playcount": 71356115,
+                      "abbrPlaycount": "71.4M",
+                      "minSongEarnings": "214,068",
+                      "maxSongEarnings": "428,136",
+                      "abbrMinEarnings": "214.1k",
+                      "abbrMaxEarnings": "428.1k"
+                    },
+                    {
+                      "name": "Dern Kala",
+                      "playcount": 57045373,
+                      "abbrPlaycount": "57.0M",
+                      "minSongEarnings": "171,136",
+                      "maxSongEarnings": "342,272",
+                      "abbrMinEarnings": "171.1k",
+                      "abbrMaxEarnings": "342.3k"
+                    },
+                    {
+                      "name": "Little Joe & Mary",
+                      "playcount": 16548188,
+                      "abbrPlaycount": "16.5M",
+                      "minSongEarnings": "49,644",
+                      "maxSongEarnings": "99,289",
+                      "abbrMinEarnings": "49.6k",
+                      "abbrMaxEarnings": "99.3k"
+                    },
+                    {
+                      "name": "White Gloves",
+                      "playcount": 151125429,
+                      "abbrPlaycount": "151.1M",
+                      "minSongEarnings": "453,376",
+                      "maxSongEarnings": "906,752",
+                      "abbrMinEarnings": "453.4k",
+                      "abbrMaxEarnings": "906.8k"
+                    },
+                    {
+                      "name": "People Everywhere (Still Alive)",
+                      "playcount": 167394005,
+                      "abbrPlaycount": "167.4M",
+                      "minSongEarnings": "502,182",
+                      "maxSongEarnings": "1,004,364",
+                      "abbrMinEarnings": "502.2k",
+                      "abbrMaxEarnings": "1.0M"
+                    },
+                    {
+                      "name": "The Man Who Took My Sunglasses",
+                      "playcount": 27360276,
+                      "abbrPlaycount": "27.4M",
+                      "minSongEarnings": "82,080",
+                      "maxSongEarnings": "164,161",
+                      "abbrMinEarnings": "82.1k",
+                      "abbrMaxEarnings": "164.2k"
+                    },
+                    {
+                      "name": "Zionsville",
+                      "playcount": 28098856,
+                      "abbrPlaycount": "28.1M",
+                      "minSongEarnings": "84,296",
+                      "maxSongEarnings": "168,593",
+                      "abbrMinEarnings": "84.3k",
+                      "abbrMaxEarnings": "168.6k"
+                    },
+                    {
+                      "name": "Balls and Pins",
+                      "playcount": 13768671,
+                      "abbrPlaycount": "13.8M",
+                      "minSongEarnings": "41,306",
+                      "maxSongEarnings": "82,612",
+                      "abbrMinEarnings": "41.3k",
+                      "abbrMaxEarnings": "82.6k"
+                    },
+                    {
+                      "name": "August Twelve",
+                      "playcount": 21865314,
+                      "abbrPlaycount": "21.9M",
+                      "minSongEarnings": "65,595",
+                      "maxSongEarnings": "131,191",
+                      "abbrMinEarnings": "65.6k",
+                      "abbrMaxEarnings": "131.2k"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Con Todo El Mundo",
+              "year": "2018",
+              "cover": {
+                "uri": "https://via.placeholder.com/220x220?text=Con+Todo+El+Mundo"
+              },
+              "totalSongs": 10,
+              "totalStreams": "421,939,957",
+              "totalMinEarnings": "1,265,819",
+              "totalMaxEarnings": "2,531,639",
+              "abbrTotalStreams": "421.9M",
+              "abbrMinEarnings": "1.3M",
+              "abbrMaxEarnings": "2.5M",
+              "discs": [
+                {
+                  "tracks": [
+                    {
+                      "name": "Cómo Me Quieres",
+                      "playcount": 50025648,
+                      "abbrPlaycount": "50.0M",
+                      "minSongEarnings": "150,076",
+                      "maxSongEarnings": "300,153",
+                      "abbrMinEarnings": "150.1k",
+                      "abbrMaxEarnings": "300.2k"
+                    },
+                    {
+                      "name": "Lady and Man",
+                      "playcount": 41834009,
+                      "abbrPlaycount": "41.8M",
+                      "minSongEarnings": "125,502",
+                      "maxSongEarnings": "251,004",
+                      "abbrMinEarnings": "125.5k",
+                      "abbrMaxEarnings": "251.0k"
+                    },
+                    {
+                      "name": "Maria También",
+                      "playcount": 71582864,
+                      "abbrPlaycount": "71.6M",
+                      "minSongEarnings": "214,748",
+                      "maxSongEarnings": "429,497",
+                      "abbrMinEarnings": "214.7k",
+                      "abbrMaxEarnings": "429.5k"
+                    },
+                    {
+                      "name": "August 10",
+                      "playcount": 82305061,
+                      "abbrPlaycount": "82.3M",
+                      "minSongEarnings": "246,915",
+                      "maxSongEarnings": "493,830",
+                      "abbrMinEarnings": "246.9k",
+                      "abbrMaxEarnings": "493.8k"
+                    },
+                    {
+                      "name": "Cómo Te Quiero",
+                      "playcount": 29408226,
+                      "abbrPlaycount": "29.4M",
+                      "minSongEarnings": "88,224",
+                      "maxSongEarnings": "176,449",
+                      "abbrMinEarnings": "88.2k",
+                      "abbrMaxEarnings": "176.4k"
+                    },
+                    {
+                      "name": "Shades of Man",
+                      "playcount": 17204822,
+                      "abbrPlaycount": "17.2M",
+                      "minSongEarnings": "51,614",
+                      "maxSongEarnings": "103,228",
+                      "abbrMinEarnings": "51.6k",
+                      "abbrMaxEarnings": "103.2k"
+                    },
+                    {
+                      "name": "Evan Finds the Third Room",
+                      "playcount": 67798997,
+                      "abbrPlaycount": "67.8M",
+                      "minSongEarnings": "203,396",
+                      "maxSongEarnings": "406,793",
+                      "abbrMinEarnings": "203.4k",
+                      "abbrMaxEarnings": "406.8k"
+                    },
+                    {
+                      "name": "A Hymn",
+                      "playcount": 13843960,
+                      "abbrPlaycount": "13.8M",
+                      "minSongEarnings": "41,531",
+                      "maxSongEarnings": "83,063",
+                      "abbrMinEarnings": "41.5k",
+                      "abbrMaxEarnings": "83.1k"
+                    },
+                    {
+                      "name": "Rules",
+                      "playcount": 14774007,
+                      "abbrPlaycount": "14.8M",
+                      "minSongEarnings": "44,322",
+                      "maxSongEarnings": "88,644",
+                      "abbrMinEarnings": "44.3k",
+                      "abbrMaxEarnings": "88.6k"
+                    },
+                    {
+                      "name": "Friday Morning",
+                      "playcount": 33162363,
+                      "abbrPlaycount": "33.2M",
+                      "minSongEarnings": "99,487",
+                      "maxSongEarnings": "198,974",
+                      "abbrMinEarnings": "99.5k",
+                      "abbrMaxEarnings": "199.0k"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mordechai",
+              "year": "2020",
+              "cover": {
+                "uri": "https://via.placeholder.com/220x220?text=Mordechai"
+              },
+              "totalSongs": 10,
+              "totalStreams": "367,887,043",
+              "totalMinEarnings": "1,103,661",
+              "totalMaxEarnings": "2,207,322",
+              "abbrTotalStreams": "367.9M",
+              "abbrMinEarnings": "1.1M",
+              "abbrMaxEarnings": "2.2M",
+              "discs": [
+                {
+                  "tracks": [
+                    {
+                      "name": "First Class",
+                      "playcount": 21162802,
+                      "abbrPlaycount": "21.2M",
+                      "minSongEarnings": "63,488",
+                      "maxSongEarnings": "126,976",
+                      "abbrMinEarnings": "63.5k",
+                      "abbrMaxEarnings": "127.0k"
+                    },
+                    {
+                      "name": "Time (You and I)",
+                      "playcount": 94667134,
+                      "abbrPlaycount": "94.7M",
+                      "minSongEarnings": "284,001",
+                      "maxSongEarnings": "568,002",
+                      "abbrMinEarnings": "284.0k",
+                      "abbrMaxEarnings": "568.0k"
+                    },
+                    {
+                      "name": "Connaissais de Face",
+                      "playcount": 37143379,
+                      "abbrPlaycount": "37.1M",
+                      "minSongEarnings": "111,430",
+                      "maxSongEarnings": "222,860",
+                      "abbrMinEarnings": "111.4k",
+                      "abbrMaxEarnings": "222.9k"
+                    },
+                    {
+                      "name": "Father Bird, Mother Bird",
+                      "playcount": 16397106,
+                      "abbrPlaycount": "16.4M",
+                      "minSongEarnings": "49,191",
+                      "maxSongEarnings": "98,382",
+                      "abbrMinEarnings": "49.2k",
+                      "abbrMaxEarnings": "98.4k"
+                    },
+                    {
+                      "name": "If There is No Question",
+                      "playcount": 9562729,
+                      "abbrPlaycount": "9.6M",
+                      "minSongEarnings": "28,688",
+                      "maxSongEarnings": "57,376",
+                      "abbrMinEarnings": "28.7k",
+                      "abbrMaxEarnings": "57.4k"
+                    },
+                    {
+                      "name": "Pelota",
+                      "playcount": 66123572,
+                      "abbrPlaycount": "66.1M",
+                      "minSongEarnings": "198,370",
+                      "maxSongEarnings": "396,741",
+                      "abbrMinEarnings": "198.4k",
+                      "abbrMaxEarnings": "396.7k"
+                    },
+                    {
+                      "name": "One to Remember",
+                      "playcount": 9960867,
+                      "abbrPlaycount": "10.0M",
+                      "minSongEarnings": "29,882",
+                      "maxSongEarnings": "59,765",
+                      "abbrMinEarnings": "29.9k",
+                      "abbrMaxEarnings": "59.8k"
+                    },
+                    {
+                      "name": "Dearest Alfred",
+                      "playcount": 11261588,
+                      "abbrPlaycount": "11.3M",
+                      "minSongEarnings": "33,784",
+                      "maxSongEarnings": "67,569",
+                      "abbrMinEarnings": "33.8k",
+                      "abbrMaxEarnings": "67.6k"
+                    },
+                    {
+                      "name": "So We Won't Forget",
+                      "playcount": 89035845,
+                      "abbrPlaycount": "89.0M",
+                      "minSongEarnings": "267,107",
+                      "maxSongEarnings": "534,215",
+                      "abbrMinEarnings": "267.1k",
+                      "abbrMaxEarnings": "534.2k"
+                    },
+                    {
+                      "name": "Shida",
+                      "playcount": 12572021,
+                      "abbrPlaycount": "12.6M",
+                      "minSongEarnings": "37,716",
+                      "maxSongEarnings": "75,432",
+                      "abbrMinEarnings": "37.7k",
+                      "abbrMaxEarnings": "75.4k"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "A LA SALA",
+              "year": "2024",
+              "cover": {
+                "uri": "https://via.placeholder.com/220x220?text=A+LA+SALA"
+              },
+              "totalSongs": 12,
+              "totalStreams": "193,666,097",
+              "totalMinEarnings": "580,998",
+              "totalMaxEarnings": "1,161,996",
+              "abbrTotalStreams": "193.7M",
+              "abbrMinEarnings": "581.0k",
+              "abbrMaxEarnings": "1.2M",
+              "discs": [
+                {
+                  "tracks": [
+                    {
+                      "name": "Fifteen Fifty-Three",
+                      "playcount": 8932093,
+                      "abbrPlaycount": "8.9M",
+                      "minSongEarnings": "26,796",
+                      "maxSongEarnings": "53,592",
+                      "abbrMinEarnings": "26.8k",
+                      "abbrMaxEarnings": "53.6k"
+                    },
+                    {
+                      "name": "May Ninth",
+                      "playcount": 58561219,
+                      "abbrPlaycount": "58.6M",
+                      "minSongEarnings": "175,683",
+                      "maxSongEarnings": "351,367",
+                      "abbrMinEarnings": "175.7k",
+                      "abbrMaxEarnings": "351.4k"
+                    },
+                    {
+                      "name": "Ada Jean",
+                      "playcount": 10266045,
+                      "abbrPlaycount": "10.3M",
+                      "minSongEarnings": "30,798",
+                      "maxSongEarnings": "61,596",
+                      "abbrMinEarnings": "30.8k",
+                      "abbrMaxEarnings": "61.6k"
+                    },
+                    {
+                      "name": "Farolim de Felgueiras",
+                      "playcount": 8185190,
+                      "abbrPlaycount": "8.2M",
+                      "minSongEarnings": "24,555",
+                      "maxSongEarnings": "49,111",
+                      "abbrMinEarnings": "24.6k",
+                      "abbrMaxEarnings": "49.1k"
+                    },
+                    {
+                      "name": "Pon Pón",
+                      "playcount": 33232666,
+                      "abbrPlaycount": "33.2M",
+                      "minSongEarnings": "99,697",
+                      "maxSongEarnings": "199,395",
+                      "abbrMinEarnings": "99.7k",
+                      "abbrMaxEarnings": "199.4k"
+                    },
+                    {
+                      "name": "Todavía Viva",
+                      "playcount": 7974279,
+                      "abbrPlaycount": "8.0M",
+                      "minSongEarnings": "23,922",
+                      "maxSongEarnings": "47,845",
+                      "abbrMinEarnings": "23.9k",
+                      "abbrMaxEarnings": "47.8k"
+                    },
+                    {
+                      "name": "Juegos y Nubes",
+                      "playcount": 11323820,
+                      "abbrPlaycount": "11.3M",
+                      "minSongEarnings": "33,971",
+                      "maxSongEarnings": "67,942",
+                      "abbrMinEarnings": "34.0k",
+                      "abbrMaxEarnings": "67.9k"
+                    },
+                    {
+                      "name": "Hold Me Up (Thank You)",
+                      "playcount": 20249122,
+                      "abbrPlaycount": "20.2M",
+                      "minSongEarnings": "60,747",
+                      "maxSongEarnings": "121,494",
+                      "abbrMinEarnings": "60.7k",
+                      "abbrMaxEarnings": "121.5k"
+                    },
+                    {
+                      "name": "Caja de la Sala",
+                      "playcount": 5175930,
+                      "abbrPlaycount": "5.2M",
+                      "minSongEarnings": "15,527",
+                      "maxSongEarnings": "31,055",
+                      "abbrMinEarnings": "15.5k",
+                      "abbrMaxEarnings": "31.1k"
+                    },
+                    {
+                      "name": "Three From Two",
+                      "playcount": 6810973,
+                      "abbrPlaycount": "6.8M",
+                      "minSongEarnings": "20,432",
+                      "maxSongEarnings": "40,865",
+                      "abbrMinEarnings": "20.4k",
+                      "abbrMaxEarnings": "40.9k"
+                    },
+                    {
+                      "name": "A Love International",
+                      "playcount": 17771670,
+                      "abbrPlaycount": "17.8M",
+                      "minSongEarnings": "53,315",
+                      "maxSongEarnings": "106,630",
+                      "abbrMinEarnings": "53.3k",
+                      "abbrMaxEarnings": "106.6k"
+                    },
+                    {
+                      "name": "Les Petits Gris",
+                      "playcount": 5183090,
+                      "abbrPlaycount": "5.2M",
+                      "minSongEarnings": "15,549",
+                      "maxSongEarnings": "31,098",
+                      "abbrMinEarnings": "15.5k",
+                      "abbrMaxEarnings": "31.1k"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "missingAlbums": []
+        },
+        "singles": {
+          "releases": [],
+          "totalSingleStreams": "0",
+          "minAmountOfEarnings": "0",
+          "maxAmountOfEarnings": "0"
+        },
+        "minAmountOfEarnings": "7,469,195",
+        "maxAmountOfEarnings": "14,938,390"
+      },
+      "merch": {
+        "items": [
+          {
+            "name": "Late Night Tales: Khruangbin Vinyl Record",
+            "price": "$26.29",
+            "image_uri": "https://via.placeholder.com/300x300?text=Vinyl+1",
+            "link": "https://example.com/vinyl1"
+          },
+          {
+            "name": "UNIVERSE SMILES UPON YOU CD",
+            "price": "$13.94",
+            "image_uri": "https://via.placeholder.com/300x300?text=CD",
+            "link": "https://example.com/cd"
+          },
+          {
+            "name": "Khruangbin / The Universe Smiles Upon You LP Vinyl",
+            "price": "$40.25",
+            "image_uri": "https://via.placeholder.com/300x300?text=Vinyl+2",
+            "link": "https://example.com/vinyl2"
+          }
+        ]
+      }
+    },
+    "default": {
+      "info": {
+        "name": "Unknown Artist",
+        "uri": "spotify:artist:unknown"
+      },
+      "gallery": {
+        "images": []
+      },
+      "related_artists": {
+        "artists": []
+      },
+      "releases": {
+        "albums": {
+          "releases": [],
+          "missingAlbums": []
+        },
+        "singles": {
+          "releases": [],
+          "totalSingleStreams": "0",
+          "minAmountOfEarnings": "0",
+          "maxAmountOfEarnings": "0"
+        },
+        "minAmountOfEarnings": "0",
+        "maxAmountOfEarnings": "0"
+      },
+      "merch": {
+        "items": []
+      }
+    }
+  }
+}
