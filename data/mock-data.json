@@ -30,10 +30,7 @@
       "gallery": {
         "images": [
           {
-            "uri": "https://via.placeholder.com/800x800?text=Khruangbin+1"
-          },
-          {
-            "uri": "https://via.placeholder.com/800x800?text=Khruangbin+2"
+            "uri": "/assets/this-is-a-photo-of-khruangbin.jpg"
           }
         ]
       },
@@ -93,7 +90,7 @@
               "name": "The Universe Smiles Upon You",
               "year": "2015",
               "cover": {
-                "uri": "https://via.placeholder.com/220x220?text=The+Universe+Smiles+Upon+You"
+                "uri": "/assets/Khruangbin_The_Universe_Smiles_Upon_You_Cover.png"
               },
               "totalSongs": 10,
               "totalStreams": "601,769,551",
@@ -203,7 +200,7 @@
               "name": "Con Todo El Mundo",
               "year": "2018",
               "cover": {
-                "uri": "https://via.placeholder.com/220x220?text=Con+Todo+El+Mundo"
+                "uri": "/assets/Khruangbin_Con_Todo_El_Mundo_Cover.png"
               },
               "totalSongs": 10,
               "totalStreams": "421,939,957",
@@ -313,7 +310,7 @@
               "name": "Mordechai",
               "year": "2020",
               "cover": {
-                "uri": "https://via.placeholder.com/220x220?text=Mordechai"
+                "uri": "/assets/Khruangbin_Mordechai_Cover.png"
               },
               "totalSongs": 10,
               "totalStreams": "367,887,043",
@@ -423,7 +420,7 @@
               "name": "A LA SALA",
               "year": "2024",
               "cover": {
-                "uri": "https://via.placeholder.com/220x220?text=A+LA+SALA"
+                "uri": "/assets/A_La_Sala.jpg"
               },
               "totalSongs": 12,
               "totalStreams": "193,666,097",
